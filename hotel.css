@@ -1,0 +1,48 @@
+
+.home{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+}
+li:hover{
+    color: blueviolet;
+    cursor: pointer;
+
+}
+.products{
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 220px;
+    text-align: center;
+}
+p:hover{
+    color: white;
+    background-color: black;
+
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+button{
+    color: black;
+    background-color: yellow;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
